@@ -1,7 +1,7 @@
 <?php
-$servername = "localhost";
-$username = "dbuser";
-$password = "Dbuser1234";
+$servername = "mariadb";
+$username = "root";
+$password = "";
 $dbname = "db_talent";
 
 try {
